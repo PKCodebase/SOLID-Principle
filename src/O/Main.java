@@ -1,6 +1,6 @@
 package O;
 
-public class Phone {
+public class Main {
     public static void main(String[] args) {
         NotificationService service = new NotificationService();
 
